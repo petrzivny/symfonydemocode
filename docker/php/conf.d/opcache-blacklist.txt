@@ -1,0 +1,3 @@
+/var/www/html/src/
+/var/www/html/public/build/
+/var/www/html/templates/

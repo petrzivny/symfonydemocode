@@ -1,0 +1,5 @@
+alias me='php bin/console make:entity'
+alias mco='php bin/console make:controller'
+alias mt='php bin/console make:unit-test'
+alias mdd='php bin/console doctrine:migration:diff'
+alias mdm='php bin/console doctrine:migration:migrate --no-interaction'
